@@ -10,7 +10,7 @@ public class Mars {
 		
 		System.out.println("third stash");
 		
-		
+		System.out.println("come from git bash")
 		
 	}
 
